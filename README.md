@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on OpenSource Projects related to my interests.
 - 📫 How to reach me - deepamjha619@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Jack of all trade, Master of none.
+- "Jack of all trade, Master of none."
 
 <!---
 DeepamJha/DeepamJha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
